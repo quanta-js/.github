@@ -20,7 +20,7 @@ QuantaJS combines simplicity with power, offering a lightweight alternative to t
 
 ## The Spark That Started It All
 
-QuantaJS isn’t just another library—it’s a rebellion against bloated, overcomplicated state management. Born from a desire to simplify without sacrificing power, it’s your companion for building smarter, faster, and cleaner code. And since it’s in beta, you’re not just a user, you’re a pioneer, helping us polish this gem into something legendary.
+QuantaJS isn’t just another library it’s a rebellion against bloated, overcomplicated state management. Born from a desire to simplify without sacrificing power, it’s your companion for building smarter, faster, and cleaner code. And since it’s in beta, you’re not just a user, you’re a pioneer, helping us polish this gem into something legendary.
 
 ## A Taste of the Magic
 
