@@ -40,7 +40,7 @@ console.log(counter.count); // 1—simple, yet powerful.
 
 ## Get Started
 
-Ready to dive in? Check out the [Installation](https://www.quantajs.com/docs/getting-started/installation) guide or explore the [Quick Start](https://www.quantajs.com/docs/getting-started/quick-start) to see QuantaJS in action!
+Ready to dive in? Check out the [Installation](https://www.quantajs.com/docs/getting-started/installation) guide or explore the [Quick Start](https://www.quantajs.com/docs/getting-started/quick-start-guide) to see QuantaJS in action!
 
 ## Support
 
